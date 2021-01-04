@@ -1,0 +1,13 @@
+E001,C001,Shine,Wanna,21,Mobile,300000,s@gmail.com,123
+E002,C004,Khin,Pu,21,Mobile,300000,k@gmail.com,123
+E003,C002,Kyaw,Lin,22,Web,500000,kl@gmail.com,321
+E004,C003,Pyae,Pyae,22,Web,500000,pp@gmail.com,321
+E005,C002,Nwar,Gyi,22,Web,500000,ng@gmail.com,321
+E006,C002,Than,Swe,22,Web,500000,ts@gmail.com,321
+E007,C001,ThuYa,Oo,22,Web,500000,tyo@gmail.com,321
+E008,C003,Aung,Thit,21,Mobile,300000,at@gmail.com,123
+E009,C004,John,Ma,21,Mobile,300000,jm@gmail.com,123
+E0010,C004,Kyaw,Htet,21,Mobile,300000,kh@gmail.com,123
+E0011,C005,Alice,Kim,21,Mobile,300000,ak@gmail.com,123
+E0012,C006,Bob,Gilman,21,Mobile,300000,bg@gmail.com,123
+E0013,C007,John,Mark,21,Mobile,300000,jm@gmail.com,123

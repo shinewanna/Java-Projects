@@ -1,0 +1,7 @@
+package com.bizleap.intership.assignments;
+
+public class InTest{
+	private void method() {
+		System.out.println("HH");
+	}
+}

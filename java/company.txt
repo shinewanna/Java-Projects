@@ -1,0 +1,7 @@
+C001,Bizleap,Tarmwe,0923698879,b@gmail.com,Mg Than
+C002,GreenHacker,KyaukMyaung,091287876,G@gmail.com,Mg Shine
+C003,KBZ,ThiTar,091287899,K@gmail.com,Mg Pu
+C004,Acroquest,LawKar,091278669,A@gmail.com,Ma La
+C005,Apple,LaThar,091278669,A@gmail.com,Ma La
+C006,IBM,ShwePyiThar,091278669,I@gmail.com,Ma La
+C007,Adobe,LanMaTaw,091278669,A@gmail.com,Ma La
